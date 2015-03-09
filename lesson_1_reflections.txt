@@ -1,0 +1,57 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    I can see the typo
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Use version control system
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    pros : Git is good for tracking the program history, but Google docs is not.
+
+    con : Git needs programmer to submit manully, but Google docs is automatically.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    For program, it is usually modifing multiple files in a time.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Not now.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Having history can check what is going on. 
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Program tracking.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+	Pros : We will know what we have down.
+
+	cons : It takes time to update files manually.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+	Saving multiple files in one commit is easier to understand tha whole page of modification.
+
+How can you use the commands git log and git diff to view the history of files?
+
+	Following the instruction to do it.
+
+How might using version control make you more confident to make changes that could break something?
+
+	It is easy to find bugs.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+	Trying the previous class materials.
