@@ -5,3 +5,21 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 	Staging area is between working directory and the repository. It contains temporary files to be submitted.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	When we have different version software such as language, features, and so on. Branches can help us contorl the relation between each version.
+
+How do the diagrams help you visualize the branch structure?
+
+	It uses lines to represent each branch to let users know the relationshio between each branch.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	The result shows two branches are combined. It is eaiser to understand the relationship between branches.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Pros : It is more convinent for users.
+
+	Cons : May have merge confliction.
